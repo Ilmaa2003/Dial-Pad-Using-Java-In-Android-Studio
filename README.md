@@ -2,7 +2,7 @@
 
 This is a simple Dial Pad Android application built using **Java** in **Android Studio**. It replicates the basic functionality of a phone dialer, allowing users to enter phone numbers and initiate calls via the native dialer.
 
-https://github.com/Ilmaa2003/Dial-Pad-Using-Java-In-Android-Studio/blob/main/Interface.jpg
+![Dial Pad Interface](https://raw.githubusercontent.com/Ilmaa2003/Dial-Pad-Using-Java-In-Android-Studio/main/Interface.jpg)
 ---
 
 ## Features
